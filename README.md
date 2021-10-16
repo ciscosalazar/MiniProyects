@@ -17,7 +17,7 @@ Esta calculadora realiza funciones basicas, suma, resta, multiplicacion y divisi
 Algoritmo para crear una lista de tamano definido por teclado y ordernarla de mayor a menor o de menor a mayor
 emplenado el metodo de la burbuja.
 <br>
-[ordenamiento_burbuja](ordenamiento_burbuja.py)
+[ordenamiento_burbuja.py](ordenamiento_burbuja.py)
 
 
 
