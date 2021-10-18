@@ -24,8 +24,8 @@ El ordenamineto por mezcla es un algoritmo de divide y conquista. Primero divide
 ### Busqueda binaria
 * Se basa en la estrategia "divide y conquiste"
 * El problema se divide en 2 en cada iteracion.
-* Solo funciona para listas ordenadas, generalmente al referirse a una lista ordenada,    por defecto, se asume que es de menor a mayor.
-<br>
+* Solo funciona para listas ordenadas, generalmente al referirse a una lista ordenada, por defecto, se asume que es de menor a mayor.
+
 [busqueda_binaria.py](busqueda_binaria.py)
 
 ### Busqueda lineal (Binary search)
